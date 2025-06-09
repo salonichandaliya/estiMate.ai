@@ -1,1 +1,1 @@
-Pricing data files (CSV or Excel)
+Your cost calculation rules and formulas
